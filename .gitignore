@@ -7,6 +7,7 @@ __pycache__/
 *.so
 *.xlsx
 *.xls
+*.txt
 
 # Distribution / packaging
 .Python
